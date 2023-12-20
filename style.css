@@ -1,0 +1,124 @@
+nav{
+    display: block;
+    background-color:rgb(208, 123, 208);
+    width: 2100px;
+    list-style: none;
+}
+ .container nav ul {
+    display: flex;
+    text-shadow: 2px;
+    list-style: none;
+    color: blue;
+    
+}
+ nav ul li a{
+    display: flex;
+    
+    width: 100%;
+    margin: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#about h2{
+    margin-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-left: 5px;
+    text-align: center;
+    color: blue;
+}
+#about p{
+    margin-left: 10px;
+    margin-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+     
+}
+img{
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   
+}
+#skills{
+    margin-top: 20px;
+}
+#skills h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+    
+}
+.intro1{
+    text-align: center;
+    font-size: 40px;
+    margin-left: 5px;
+    color: blueviolet;
+}
+.intro{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 5px;
+    color: rgb(52, 20, 83);
+}
+.images{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#projects h2{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: blue;
+}
+.project h3{
+    font-size: 30px;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.project p{
+    font-size: 20px;
+}
+.project1 h3{
+    text-align: end;
+    font-size: 30px;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.project1 p{
+    text-align: end;
+    font-size: 20px;
+}
+#contact h2{
+    margin-top: 20px;
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
+#contact p{
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+#lin span{
+  height: 70px;
+  width: 70px;
+  margin-left: 150px;
+}
+footer{
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
